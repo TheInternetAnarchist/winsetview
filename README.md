@@ -3,6 +3,7 @@
 To view this document formatted (instead of as raw text) just click the Help button in WinSetView.
 You can also manually navigate your browser to: https://lesferch.github.io/WinSetView.
 -->
+<meta name="google-adsense-account" content="ca-pub-7430036849954417">
 
 This is the quick start guide. For more details, please see the [complete user manual](./Manual.md).
 
